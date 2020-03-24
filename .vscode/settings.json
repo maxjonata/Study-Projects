@@ -1,0 +1,39 @@
+{
+    "bracketPairColorizer.showBracketsInGutter": true,
+    "bracketPairColorizer.showBracketsInRuler": true,
+    "bracketPairColorizer.timeOut": 0,
+    "bracketPairColorizer.highlightActiveScope": false,
+    "bracketPairColorizer.consecutivePairColors": [
+        "()",
+        "[]",
+        "{}",
+        [
+            "</",
+            ">"
+        ],
+        [
+            "<",
+            "/>"
+        ],
+        "<>",
+        [
+            "Gold",
+            "Orchid",
+            "LightSkyBlue"
+        ],
+        "Red"
+    ],
+    "C_Cpp.errorSquiggles": "Disabled",
+    "C_Cpp.default.intelliSenseMode": "clang-x64",
+    "indentRainbow.colors": [
+        "rgba(64,54,0,0.1)",
+        "rgba(55,28,54,0.1)",
+        "rgba(34,52,63,0.1)"
+    ],
+    "files.associations": {
+        "string": "c",
+        "ratio": "c",
+        "stdio.h": "c"
+    },
+    "git.ignoreLimitWarning": true,
+}

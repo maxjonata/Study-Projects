@@ -1,0 +1,60 @@
+{
+    // See https://go.microsoft.com/fwlink/?LinkId=733558
+    // for the documentation about the tasks.json format
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Build C",
+            "type": "process",
+            "command": "${workspaceFolder}/TinyCCompiler/tcc.exe",
+            "args": [
+                "${file}",
+                "-o",
+                "C/bin/${fileBasenameNoExtension}.exe"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "problemMatcher": []
+        },
+        {
+            "label": "Run C",
+            "type": "process",
+            "command": "./C/bin/${fileBasenameNoExtension}.exe",
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "problemMatcher": []
+        },
+        {
+            "label": "(work in progress) Build JAVA",
+            "type": "shell",
+            "command": "javac",
+            "args": [
+                "${file}",
+                "-d",
+                "${workspaceFolder}\\Java\\bin"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "problemMatcher": []
+        },
+        {
+            "label": "(work in progress) Run JAVA",
+            "type": "shell",
+            "command": "java",
+            "args": [
+                "\"${workspaceFolder}\\bin\\${fileBasenameNoExtension}\""
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "problemMatcher": []
+        }
+    ]
+}

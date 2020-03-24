@@ -1,0 +1,28 @@
+
+
+Version:	3.12
+CmdLine:	D:\OneDrive\Trabalhos\Projetos\Java\src\lolVideoConverter\LOL_webm-to-mp4.exe --l4j-debug
+WOW64:		yes
+Create mutex:	lolWEBMtoMP4
+Working dir:	D:\OneDrive\Trabalhos\Projetos\Java\src\lolVideoConverter\.
+Java min ver:	1.011.000_002
+Java max ver:	
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Ignore:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_221
+Ignore:		1.008.000_221
+32-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+32-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+32-bit search:	SOFTWARE\JavaSoft\JRE...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Check:		SOFTWARE\JavaSoft\JDK\11.0.2
+Check launcher:	C:\Program Files\Java\jdk-11.0.2\bin\javaw.exe (OK)
+Match:		1.011.000_002
+Runtime used:	1.011.000_002 (64-bit)
+Launcher:	C:\Program Files\Java\jdk-11.0.2\bin\javaw.exe
+Launcher args:	-jar "D:\OneDrive\Trabalhos\Projetos\Java\src\lolVideoConverter\LOL_webm-to-mp4.exe"
+Args length:	84/32768 chars
+Error msg:	An error occurred while starting the application.

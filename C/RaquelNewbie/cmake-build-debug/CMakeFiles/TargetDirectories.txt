@@ -1,0 +1,3 @@
+D:/OneDrive/Trabalhos/Projetos/C/RaquelNewbie/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/OneDrive/Trabalhos/Projetos/C/RaquelNewbie/cmake-build-debug/CMakeFiles/RaquelNewbie.dir
+D:/OneDrive/Trabalhos/Projetos/C/RaquelNewbie/cmake-build-debug/CMakeFiles/edit_cache.dir

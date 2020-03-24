@@ -1,0 +1,533 @@
+.box
+{
+    display: inline-block;
+}
+
+.column
+{
+    float: left;
+    padding: 10px;
+}
+
+.upsideButtomsColumn
+{
+    padding-top: 0px;
+    padding-right: 50px;
+}
+
+.rightSideBorderHeader
+{
+    border-right-style: outset;
+    border-right-color: rgb(238, 238, 238);
+    border-right-width: 1px;
+    padding-right: 1%;
+}
+
+.rightSideBorderFooter
+{
+    border-right-style: outset;
+    border-right-color: grey;
+    border-right-width: 5px;
+    padding-right: 7%;
+}
+
+.column .linha h3
+{
+    color: #466f9f;
+    font-family: sans-serif;
+    font-size: 25px;
+    margin-bottom: 0px;
+}
+
+.topicListAside
+{
+    background-color: lightgrey;
+    font-weight: bold;
+    height: 17px;
+    width: 100%;
+}
+
+.ad-article
+{
+    border-bottom-style: ridge;
+    border-bottom-color: lightgrey;
+    border-bottom-width: 1px;
+    text-align: left;
+}
+
+.ad-article h3
+{
+    color: lightblue;
+    text-align: left;
+}
+
+.ad-article h2
+{
+    font-size: 20px;
+}
+
+.ad-article p
+{
+    font-size: 15px;
+}
+
+main
+{
+    width: 60%;
+    font-size: 20px;
+    text-align: center;
+}
+
+main p,h1,h2
+{
+    text-align: left;
+    font-size: 20px;
+}
+
+cite
+{
+    text-align: left;
+}
+
+aside .linha h2
+{
+    padding-top: 20px;
+    margin-top: 20px;
+    margin-bottom: 0px;
+}
+
+ul li
+{
+    border-style: ridge;
+    border-width: 1px;
+    border-color: lightgrey;
+}
+
+ul li ul
+{
+    padding-left: 10px;
+}
+
+ul li ul li
+{
+    list-style-type: none;
+    border-style: none;
+}
+
+aside
+{
+    border-left-style: ridge;
+    border-left-width: 1px;
+    border-left-color: lightgrey;
+    width:35%;
+}
+
+html
+{
+    background-color: #f7f7f7;
+}
+
+body
+{
+    height: 4500px;
+    max-width: 80%;
+    margin:auto;
+    background-color: white;
+}
+
+nav
+{
+    display: inline-block;
+    width: 100%;
+    height:
+    font-size: 15px;
+    border-bottom-style: solid;
+    border-bottom-color: grey;
+    border-bottom-width: 1px;
+}
+
+footer
+{
+    width: 100%;
+    display: inline-block;
+    background-color: #222222;
+}
+
+footer h1
+{
+    color:#8b7a56;
+    font-size: 20px
+}
+
+footer p
+{
+    color: white;
+}
+
+#legGallery
+{
+    background-color: lightgrey;
+}
+
+#legGallery p
+{
+    margin-top: 0px;
+    font-size: 15px;
+}
+
+#Ad-Artigo
+{
+    width: 40%;
+}
+
+#Ad-Artigo a
+{
+    float: right;
+}
+
+#redesSociais
+{
+    border-top-color: lightgrey;
+    border-top-style: ridge;
+    border-top-width: 1px;
+    border-bottom-color: lightgrey;
+    border-bottom-style: ridge;
+    border-bottom-width: 1px;
+}
+
+#TopJobs
+{
+    color: lightblue;
+}
+
+#SportsNewsletter h2
+{
+    color: lightseagreen;
+    font-family: sans-serif;
+}
+
+#SportsNewsletter .box
+{
+    border-style: ridge;
+    border-color: lightgrey;
+    border-width: 1px;
+}
+
+#SportsNewsletter form
+{
+    font-weight: bold;
+    margin-left: 10px;
+    padding-bottom: 10px;
+}
+
+#SportsNewsletter form input[type=submit]
+{
+    float: right;
+    background-color: lightblue;
+    margin-right: 30px;
+    margin-bottom: 10px;
+}
+
+#SportsNewsletter p
+{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+#social
+{
+    border-style: ridge;
+    border-width: 1px;
+    border-color: lightgrey;
+}
+
+#social p
+{
+    padding-right: 10px;
+    padding-left: 20px;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+#social-reader-title
+{
+    font-family: sans-serif;
+    color: grey;
+    padding-left: 20px;
+    border-bottom-style: ridge;
+    border-bottom-width: 1px;
+    border-bottom-color: lightgrey;
+}
+
+#social-reader-title h2
+{
+    padding-top: 0px;
+    margin-top: 0px;
+}
+
+#moreHeadlines
+{
+    background-color:black;
+    color: white;
+    margin-left: 20px;
+    width: 88%;
+}
+
+#tv-and-radio
+{
+    padding-left: 100px;
+    padding-bottom: 10px;
+    font-family: sans-serif;
+    background-color: black;
+    color: white;
+}
+
+#stats-score h2
+{
+    color: rgb(116, 116, 211);
+}
+
+#stats-score .box .column
+{
+    border-style: ridge;
+    border-color: lightgrey;
+    border-width: 1px;
+}
+
+#stats-score h3
+{
+    background-color: lightgrey;
+    color: black;
+}
+
+#post-pro-picks
+{
+    color: white;
+    width: 400px;
+    height: 130px;
+    background-color: black;
+}
+
+#post-pro-picks .column
+{
+    height: 100px;
+    width: 180px;
+}
+
+#post-pro-picks h2
+{
+    margin-top: 0px;
+    padding-top: 0px;
+}
+
+#post-pro-picks p
+{
+    color: grey;
+}
+
+#post-pro-picks a
+{
+    color: rgb(140, 140, 230);
+}
+
+#GoingOutGuide h2
+{
+    padding-top: 0px;
+    margin-left: 10px;
+    font-size: 40px;
+}
+
+#GoingOutGuide .box h2
+{
+    width: 400px;
+    background-color: lightgrey;
+    font-family: sans-serif;
+    margin-top: 5px;
+    font-size: 20px;
+}
+
+#GoingOutGuide .linha
+{
+    padding-left: 20px;
+    border-bottom-style: ridge;
+    border-bottom-color: lightgrey;
+    border-bottom-width: 1px;
+}
+
+#GoingOutGuide .box
+{
+    border-style: ridge;
+    border-color: lightgrey;
+    border-width: 1px;
+}
+
+#GoingOutGuide .box a
+{
+    float:right;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+#GoingOutGuide .box .linha h2
+{
+    background-color: white;
+    color: orange;
+    font-weight: normal;
+    font-size: 20px;
+}
+
+#tv-and-radio p
+{
+    margin-top: 0px;
+    color: grey;
+}
+
+#moreHeadlines p
+{
+    margin-top: 0px;
+}
+
+#personal .linha .column
+{
+    padding:0px;
+    width: 200px;
+    height: 90px;
+}
+
+#personal .linha
+{
+    border-right-style: ridge;
+    border-right-color: lightgrey;
+    border-left-style: ridge;
+    border-left-color: lightgrey;
+    border-right-width: 1px;
+    border-left-width: 1px;
+    border-bottom-style: ridge;
+    border-bottom-color: lightgrey;
+    border-bottom-width: 1px;
+    margin-right: 0px;
+    margin-left: 20px;
+    width:400px;
+    height: 100px;
+}
+
+#PersonalRecommendations
+{
+    margin-top:0px;
+    margin-left: 20px;
+    margin-bottom: 0px;
+    width: 90%;
+    height: 22px;
+    font-size:17px;
+    background-color:lightgrey;
+}
+
+#ad-aside
+{
+    font-size: 10px;
+    text-align: center;
+    background-color: lightgrey;
+    height: 20px;
+}
+
+#citationTitle
+{
+    width:100px;
+    height: 20px;
+}
+
+#citation
+{
+    width: 60%;
+    height: 80px;
+    border-bottom-style: groove;
+    border-bottom-width: 1px;
+    border-bottom-color: grey;
+    
+}
+
+#articleWriter
+{
+    color: #003322;
+    margin-right:50%;
+    font-size: 200%;
+    margin-top: 0.5%;
+    margin-bottom: 1px;
+    padding: 1px;
+}
+
+#ad-proprio
+{
+    margin-left:auto;
+    margin-right:auto;
+    width: 99%;
+    height: 100px;
+    background-color: #f7f7f7;
+}
+
+#ad-proprio p
+{
+    width: 110px;
+    margin: 0px;
+}
+
+#ad-proprio > .column
+{
+    margin-right:auto;
+    margin-left: 4%;
+}
+
+#HideIt
+{
+    color:#222222;
+}
+
+#blueOnes
+{
+    width: 300px;
+    color: blue;
+}
+
+#redOnes
+{
+    padding-top: 10px;
+    color:red;
+}
+
+#blackOnes
+{
+    color:black;
+    width: 36%;
+    float: right;
+    padding-right: 0px;
+}
+
+#upsideButtoms
+{
+    background-color: #f7f7f7;
+    font-size: 10px;
+    display: inline-block;
+    width: 100%;
+    height: 30px;
+    padding-top: 0px;
+}
+
+#tituloPrincipal
+{
+    display: inline-block;
+    width: 100%;
+    color: #376c98;
+    font-size: 60px;
+    margin: 5px;
+    border-bottom-style: solid;
+    border-bottom-color: grey;
+    border-bottom-width: 1px;
+}
+
+#search
+{
+    float: right;
+    height: 30px;
+    padding: 0px;
+    font-size: 23px;
+}

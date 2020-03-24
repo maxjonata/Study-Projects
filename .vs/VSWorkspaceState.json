@@ -1,0 +1,22 @@
+<<<<<<< HEAD
+{
+  "ExpandedNodes": [
+    "",
+    "\\FPR2",
+    "\\src",
+    "\\src\\C",
+    "\\src\\C\\FPR2"
+  ],
+  "SelectedNode": "\\src\\C\\FPR2\\Lista1.c",
+  "PreviewInSolutionExplorer": false
+=======
+{
+  "ExpandedNodes": [
+    "",
+    "\\exe",
+    "\\scripts"
+  ],
+  "SelectedNode": "\\scripts\\compile.c",
+  "PreviewInSolutionExplorer": false
+>>>>>>> b40020655e623470d8694fef4dab9e11f5ddbd76
+}

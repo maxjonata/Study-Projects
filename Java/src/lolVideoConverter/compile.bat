@@ -1,0 +1,2 @@
+javac principal.java
+PAUSE

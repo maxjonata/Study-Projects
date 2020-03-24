@@ -1,0 +1,269 @@
+html
+{
+    font-family: sans-serif;
+}
+
+.blueHongKong
+{
+    color: #7765c5;
+}
+
+.redOpinion
+{
+    color: #c56565;
+}
+
+.coldireita
+{
+    margin-left: 10px;
+}
+
+.artigo
+{
+    background-color: #e0e0e0;
+}
+
+.greyTime
+{
+    color: grey;
+}
+
+.coluna
+{
+    float: left;
+    padding: 10px;
+}
+
+.colunaRight
+{
+    float: right;
+    padding: 10px;
+}
+
+.middle
+{
+    height: 40px;
+    background-color: black;
+}
+
+.middle > a
+{
+    margin-left: 40px;
+}
+
+.coluna > a
+{
+    margin-left: 10px;
+}
+
+aside .linha
+{
+    margin-bottom: 20px;
+}
+
+aside .linha .linha
+{
+    margin-bottom: 0.001px;
+}
+
+main > .linha > .linha
+{
+    height: 150px;
+    width: 100%;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+main > .lasLine > .coluna
+{
+    height: 500px;
+    width: 45%;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+main > .lasLine > .coluna > .linha
+{
+    width: 45%;
+    height: 120px;
+}
+
+main > .lasLine > .coluna > .linha > .coluna
+{
+    width: 80%;
+}
+
+main > .lasLine > .coluna > .linha > .text
+{
+    width: 10%;
+}
+
+main > .linha > .linha > .coluna
+{
+    width: 45%;
+    height: 80%
+}
+main > .linha > .linha > .coluna > .coluna
+{
+    width: 40%;
+}
+main > .linha > .linha > .coluna > .text
+{
+    width: 50%;
+}
+
+nav .colunaRight
+{
+    padding-top: 0px;
+}
+
+nav > .coluna
+{
+    margin-top: ;
+}
+
+small
+{
+    font-weight: bold;
+}
+
+nav
+{
+    font-family: sans-serif;
+    font-weight: bold;
+    height: 40px;
+}
+
+main
+{
+    font-size: 10px;
+    width: 67%;
+}
+
+aside
+{
+    width:30%;
+}
+
+a
+{
+    text-decoration: none;
+}
+
+body
+{
+    height: 400px;
+    max-width: 80%;
+    margin:auto;
+    background-color: white;
+}
+
+nav
+{
+    width: 100%;
+    font-size: 15px;
+}
+
+#h1Notice
+{
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+#adTopoCentral
+{
+    width: 728px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#adTopoCentral > img
+{
+    margin-top: 20px;
+}
+
+#adTopoCentralLinha
+{
+    width:100%;
+    height: 130px;
+}
+
+#logoPrincipal
+{
+    display: block;
+    margin-left: 40%;
+}
+
+#superiorNav
+{
+    background-color: #262626;
+}
+
+#bigLinha
+{
+    width: 100%;
+    height: 230px;
+}
+
+#bigLinha > .coluna
+{
+    width: 40%;
+}
+
+#bigLinha > .coluna > small
+{
+    font-weight: bold;
+}
+
+#bigLinha > .text
+{
+    font-size: 15px;
+}
+
+#adColuna
+{
+    display: block;
+    margin: auto;
+    margin-top: 30px;
+}
+
+#grandeColuna .linha
+{
+    width: 100%;
+}
+
+#grandeColuna
+{
+    height: 100%;
+}
+
+#grandeColuna > img
+{
+    width: 100%;
+}
+
+#grandeColuna .text
+{
+    font-size: 15px;
+}
+
+#grandeColuna .text p
+{
+    font-family: serif;
+}
+
+#paying > img
+{
+    width: 85%;
+}
+
+.striplink
+{
+    width: 85%;
+}
+
+.imgArtigoPrincipal
+{
+    height: 80%;
+}

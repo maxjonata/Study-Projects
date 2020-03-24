@@ -1,0 +1,18 @@
+Conta:
+Uma Conta tem um número, um saldo e um cliente principal e, opcionalmente, um segundo cliente secundário (conta conjunta).
+A classe conta deve implementar um método depositar, que acresce ao saldo da conta o valor indicado pelo parâmetro.
+A classe conta deve definir um método abstrato sacar, a ser implementado na duas subclasses, de acordo com as especificidades de cada caso.
+Os atributos número da conta, saldo e o cliente principal são de somente leitura por acesso externo.
+
+Conta Normal:    	(subclasse de Conta)
+Na conta normal, o saldo nunca pode ser menor que zero.
+devem ter construtores, para indicar o número da conta, o cliente principal e, para o caso de conta especial, indicar também o limite.
+
+Conta Especial:		(subclasse de Conta)
+Na conta especial, o saldo pode ser negativo, contanto que dentro de um limite de crédito especificado.
+devem ter construtores, para indicar o número da conta, o cliente principal e, para o caso de conta especial, indicar também o limite.
+Os atributos cliente secundário e limite (para o caso de conta especial) têm acesso externo de leitura e escrita.
+
+Cliente:
+Um Cliente tem um cpf e um nome, e a classse deve possuir um construtor que define os valores iniciais desses dois atributos de instância.
+Além disso, o atributo cpf teve ter acesso externo de leitura e o nome de escrita e leitura.
